@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Liberty LLC","이츠레아","well-made-plush","nessun","revi","zlzleking","katinor","nuxe"
+		]
+	},
+	"skinname-liberty": "Liberty",
+	"liberty-desc": "리버티 스킨을 다른 위키에서 일반적으로 적용할 수 있게  변형합니다.",
+	"liberty.css": "/* 이 CSS 설정은 리버티 스킨을 사용하는 사용자에게 적용됩니다 */",
+	"liberty.js": "/* 이 자바스크립트 설정은 리버티 스킨을 사용하는 사용자에게 적용됩니다 */"
+}
